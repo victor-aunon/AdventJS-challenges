@@ -7,6 +7,11 @@
   "license": "MIT",
   "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-aunon/AdventJS-challenges.git"
+  },
+  "homepage": "https://github.com/victor-aunon/AdventJS-challenges#readme",
   "scripts": {
     "test" : "yarn node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
