@@ -12,4 +12,5 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 3 | [El Grinch quiere fastidiar la Navidad](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/03.js)
 | 4 | [¡Es hora de poner la Navidad en casa!](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/04.js)
 | 5 | [Contando los días para los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/05.js)
+| 6 | [Rematando los exámenes finales](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/06.js)
 
