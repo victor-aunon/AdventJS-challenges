@@ -9,3 +9,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 |:---:|:---:|
 | 1 | [Contando ovejas para dormir](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/01.js) |
 | 2 | [Ayuda al elfo a listar los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/02.js)
+| 3 | [El Grinch quiere fastidiar la Navidad](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/03.js)
