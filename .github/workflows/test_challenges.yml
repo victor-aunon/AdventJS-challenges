@@ -1,7 +1,7 @@
 name: Test AdventJS challenges
 
 on:
-  - pull
+  - push
   - pull_request
 
 jobs:
