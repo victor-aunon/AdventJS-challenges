@@ -1,0 +1,19 @@
+name: Test AdventJS challenges
+
+on:
+  - pull
+  - pull_request
+
+jobs:
+  test-challenges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Test using node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '18.7'
+      - name: Install dependencies
+        run: yarn install
+      - name: Run tests with jest
+        run: yarn test
