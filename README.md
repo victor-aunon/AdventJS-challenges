@@ -17,3 +17,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 8 | [La locura de las criptomonedas](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/08.js)
 | 9 | [Agrupando cosas automáticamente](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/09.js)
 | 10 | [La máquina de cambio](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/10.js)
+| 11 | [¿Vale la pena la tarjeta de fidelidad del cine?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/11.js)
