@@ -14,4 +14,5 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 5 | [Contando los días para los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/05.js)
 | 6 | [Rematando los exámenes finales](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/06.js)
 | 7 | [Buscando en el almacén...](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/07.js)
+| 8 | [La locura de las criptomonedas](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/08.js)
 
