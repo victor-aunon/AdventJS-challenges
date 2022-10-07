@@ -18,3 +18,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 9 | [Agrupando cosas automáticamente](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/09.js)
 | 10 | [La máquina de cambio](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/10.js)
 | 11 | [¿Vale la pena la tarjeta de fidelidad del cine?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/11.js)
+| 12 | [La ruta perfecta para dejar los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/12.js)
