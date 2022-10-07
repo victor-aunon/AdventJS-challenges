@@ -20,3 +20,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 11 | [¿Vale la pena la tarjeta de fidelidad del cine?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/11.js)
 | 12 | [La ruta perfecta para dejar los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/12.js)
 | 13 | [Envuelve regalos con asteriscos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/13.js)
+| 14 | [En busca del reno perdido](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/14.js)
