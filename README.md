@@ -16,4 +16,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 7 | [Buscando en el almacén...](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/07.js)
 | 8 | [La locura de las criptomonedas](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/08.js)
 | 9 | [Agrupando cosas automáticamente](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/09.js)
-
+| 10 | [La máquina de cambio](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/10.js)
