@@ -11,3 +11,6 @@ export function countDecorations(bigTree) {
   countDecorationsBranch(bigTree);
   return decorations;
 }
+
+// Simplyfied version (count is kept between recursive calls)
+// return bigTree ? bigTree.value + countDecorations(bigTree.left) + countDecorations(bigTree.right) : 0;
