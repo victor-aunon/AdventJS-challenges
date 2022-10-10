@@ -26,3 +26,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 17 | [La locura de enviar paquetes en esta época](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/17.js)
 | 18 | [El sistema operativo de Santa Claus](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/18.js)
 | 19 | [¿Qué deberíamos aprender en Platzi?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/19.js)
+| 20 | [¿Una carta de pangramas? ¡QUÉ!](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/20.js)
