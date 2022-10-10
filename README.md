@@ -24,3 +24,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 15 | [El salto perfecto](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/15.js)
 | 16 | [Descifrando los números](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/16.js)
 | 17 | [La locura de enviar paquetes en esta época](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/17.js)
+| 18 | [El sistema operativo de Santa Claus](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/18.js)
