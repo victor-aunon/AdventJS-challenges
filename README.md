@@ -28,3 +28,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 19 | [¿Qué deberíamos aprender en Platzi?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/19.js)
 | 20 | [¿Una carta de pangramas? ¡QUÉ!](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/20.js)
 | 21 | [La ruta con los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/21.js)
+| 22 | [¿Cuántos adornos necesita el árbol?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/22.js)
