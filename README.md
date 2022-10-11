@@ -30,3 +30,4 @@ The following challenges are collected in https://adventjs.dev. Here I present m
 | 21 | [La ruta con los regalos](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/21.js)
 | 22 | [¿Cuántos adornos necesita el árbol?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/22.js)
 | 23 | [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/23.js)
+| 24 | [Comparando árboles de Navidad](https://github.com/victor-aunon/AdventJS-challenges/blob/main/src/24.js)
